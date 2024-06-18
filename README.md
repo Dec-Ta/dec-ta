@@ -28,3 +28,6 @@ I'm a blue teamer, perpetual learner, and SIEM enthusiast.
     <img src="https://img.shields.io/badge/Lets_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lets Connect"/>
   </a>
 </div>
+
+**If i'm not in front of my computer:**
+- I'm watching Hockey
