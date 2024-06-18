@@ -1,6 +1,5 @@
 Hi there 👋
 
-<!--
 **Dec-Ta/dec-ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a blue teamer, constant learner, and SIEM enthusiast.
@@ -32,5 +31,3 @@ I'm a blue teamer, constant learner, and SIEM enthusiast.
     <img src="https://img.shields.io/badge/TryHackMe-%230077B5.svg?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
   </a>
 </div>
-
--->
